@@ -1,0 +1,6 @@
+{
+  "name": "Muliana Shoes",
+  "description": "Toko sepatu resmi Muliana Shoes Cabang Lampu Merah Sunu. Koleksi sepatu Nike, Adidas, dan Puma ukuran 35–43 dengan pembayaran QRIS instan, chat WhatsApp, dan notifikasi pengiriman otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
